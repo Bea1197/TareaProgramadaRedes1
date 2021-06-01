@@ -7,7 +7,7 @@ Este proyecto se basa en la creación de un servidor FTP. En este readme se desc
 
 El usuario debe instalar los siguientes programas para instalar el proyecto:
 
-MySQL
+SQL
 
 IDE 
 
@@ -16,7 +16,7 @@ Conector de MySQL
 JDK
 
 
-<[-
+
 ### Instalación 
 
 
@@ -40,9 +40,6 @@ Por ultimo iniciar repositorio con un README y da clic en crear repositorio.
 ## Construido con 🛠️
 
 _Beatriz Leiva 
-
-
-
 
 
 
