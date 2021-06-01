@@ -54,5 +54,6 @@ Este proyecto no cuenta con ninguna licencia.
 
 ## Expresiones de Gratitud 🎁
 
-Cómo crear un pequeño cliente/servidor TFTP porque su código fue implementado en el proyecto para la conexión de cliente-servidor http://picopalaplumaespada.blogspot.com/2013/07/como-crear-un-pequeno-clienteservidor.html
+Codigo implementadio en el proyecto para crear un servidor tftp: https://www.discoduroderoer.es/ejemplo-conexion-udp-clienteservidor-en-java/
+
 
