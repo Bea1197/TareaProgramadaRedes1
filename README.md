@@ -54,6 +54,9 @@ Este proyecto no cuenta con ninguna licencia.
 
 ## Expresiones de Gratitud 🎁
 
-Codigo implementadio en el proyecto para crear un servidor tftp: https://www.discoduroderoer.es/ejemplo-conexion-udp-clienteservidor-en-java/
+Codigo implementadio en el proyecto para crear un servidor tftp:
+https://www.discoduroderoer.es/ejemplo-conexion-udp-clienteservidor-en-java/![image](https://user-images.githubusercontent.com/37676749/120950783-baa36880-c704-11eb-990e-f83608a2deb5.png)
+Codigo utilizado para hacer la conexion a la base de datos:
+https://decodigo.com/java-conexion-a-base-de-datos-con-jdbc
 
 
