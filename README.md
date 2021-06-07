@@ -11,8 +11,8 @@ SQL
 
 IDE 
 
-Conector de MySQL
-
+Conectar  SQL 
+                  
 JDK
 
 
